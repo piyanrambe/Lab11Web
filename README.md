@@ -65,3 +65,40 @@ lab4_layout. Kita akan gunakan layout yang pernah dibuat pada praktikum 4)
 Kemudian buat folder `template` pada direktori `view` kemudian buat file `header.php` dan 
 `footer.php`
 
+`Header`
+
+![image](https://user-images.githubusercontent.com/101393632/176166741-91af8352-5655-4c51-9cc1-881f2b3892f8.png)
+
+`Footer`
+
+![image](https://user-images.githubusercontent.com/101393632/176166931-95fbfafc-4126-444d-aa58-327bc4a1ebd3.png)
+
+`Hasil Akhir`
+
+![image](https://user-images.githubusercontent.com/101393632/176172264-d760baa0-57a0-467f-805c-23d7ca031457.png)
+
+# TUGAS 
+Pertanyaan dan Tugas
+Lengkapi kode program untuk menu lainnya yang ada pada Controller Page, sehingga 
+semua link pada navigasi header dapat menampilkan tampilan dengan layout yang 
+sama.
+
+`Home`
+
+![image](https://user-images.githubusercontent.com/101393632/176175704-8503c193-879f-4c72-953c-e49c3db60463.png)
+
+`artikel`
+
+![image](https://user-images.githubusercontent.com/101393632/176175968-5bd64b40-9d06-427e-9194-557e7241f222.png)
+
+
+`about`
+
+![image](https://user-images.githubusercontent.com/101393632/176175510-a2e041e3-5c74-42f1-bf04-bd7d779c966e.png)
+
+`kontak`
+
+![image](https://user-images.githubusercontent.com/101393632/176175892-38a11141-c434-44cc-a334-f49ae0da4c99.png)
+
+---
+
